@@ -1,0 +1,36 @@
+* {
+  margin: 0px;
+  padding: 0px; }
+
+.corner-shadow-box {
+  box-shadow: 0 0 5px lightgray;
+  border: 1px solid #eeeeee;
+  border-radius: 5px; }
+
+#container {
+  padding: 8px; }
+
+body {
+  background-color: #fafafa;
+}
+
+.padding8 {
+  padding: 8px; }
+
+.bt {
+  border: none;
+  background-color: white !important;
+  color: #715457; }
+
+.primarybt {
+  background-color: lightcoral !important;
+  margin-top: 35px;
+  color: white; }
+
+.tabbar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%; }
+
+/*# sourceMappingURL=style.css.map */

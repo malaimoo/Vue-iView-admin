@@ -1,0 +1,28 @@
+@import "variable";
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+a:hover,a:active{
+  text-decoration: none !important;
+}
+.corner-shadow-box{
+  box-shadow: 0 0 1px lightgray;
+  border: 1px solid #eeeeee;
+  border-radius: 5px;
+}
+.layout-content {
+  margin: 15px 5px;
+  overflow: hidden;
+  background: #fff;
+  border-radius: 4px;
+}
+
+.layout-content-main {
+  padding: 10px;
+}
+
+.layout-breadcrumb {
+  padding: 10px 15px 0;
+}
